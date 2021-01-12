@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(185, 75%, 39%);
+    font-size: 18px;
+    font-family: kumbh sans;
+}
+
+.circle1 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: left -175%;
+}
+
